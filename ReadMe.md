@@ -30,8 +30,8 @@ The dataset contains features computed from digitized images of fine needle aspi
 - Trained a **Logistic Regression** model using Scikit-Learn
 
 ### 🔹 5. Evaluation
-- Calculated **Accuracy**, **Precision**, **Recall**, **F1-score**
-- Displayed **Confusion Matrix**
+- Calculated **Accuracy**
+
 
 ---
 
