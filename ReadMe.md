@@ -51,8 +51,6 @@ P(y = 1 | x) = \frac{1}{1 + e^{-(w_1x_1 + w_2x_2 + \dots + w_nx_n + b)}}
 ## ✅ Example Results
 
 - **Accuracy:** ~95–97%
-- **Confusion Matrix:** Shows correct and incorrect classifications
-- **Classification Report:** Includes precision, recall, F1-score
 
 ---
 
